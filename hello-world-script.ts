@@ -1,5 +1,6 @@
 import { Product, User } from "./types/User"
 
+// New Comment, did this appear at GIT?
 /* Object Instantiation */
 const userWithoutInterface: { username: string; password: string } = {
   username: "",
